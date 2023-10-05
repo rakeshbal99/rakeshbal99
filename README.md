@@ -3,7 +3,7 @@
 - 🌱 I’m currently a second-year MS student at UCLA in Computer Science.
 - 📫 How to reach me: rakeshbal99 at gmail dot com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact about me: I write poems when I am drooling over the past [Link](https://rakeshbal99.github.io/poems.html)]
+- ⚡ Fun fact about me: I write poems when I am drooling over the past [[Link](https://rakeshbal99.github.io/poems.html)]
 
 <!--
 **rakeshbal99/rakeshbal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
