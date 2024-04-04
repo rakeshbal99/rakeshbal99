@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a second-year MS student at UCLA in Computer Science.
+- 🏢 I'm currently an MLOps Engineer at [Stovell AI Systems](https://stovell.ai/), based in San Francisco.
+- 🌱 I completed my MS in Computer Science at UCLA in June 2023.
 - 📫 How to reach me: rakeshbal99 at gmail dot com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact about me: I write poems when I am drooling over the past [[Link](https://rakeshbal99.github.io/poems.html)]
